@@ -1,0 +1,9 @@
+
+# Optional Google font URL
+google_fonts = "family=Gowun+Batang&family=Montserrat"
+
+# Font families
+heading_font = "Montserrat"
+body_font = "Gowun Batang"
+nav_font = "Montserrat"
+mono_font = "Gowun Batang"

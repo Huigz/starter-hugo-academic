@@ -3,8 +3,8 @@
 title: Jm Su 소가모  
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jm
+last_name: Su
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student of Sociology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,26 +22,23 @@ organizations:
     url: https://www.skku.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 연구방향은 교환이론, 사회연결망이며 Python Pandas Plotly networkx Crawler에 대한 관심이 많습니다.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Exchange Theory
+  - DataSince
+  - Social Network Analysis
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 사회학 대학원
+      institution: SKKU 성균관대학교
+      year: 2023-
+    - course: 사회학 학부
+      institution: SKKU 성균관대학교
+      year: 2018-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +77,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jmsu는 한국에서 유학하고 있는 성균관대학교 사회학과 대학원생입나다. 
+우연히 사회학 전공으로 진입했는데 사회학의 매력에 빠졌어 데이터사이언스와 연합해 데이터를 통해 사회학이론 검증하고 탐색하는 게 제 목표입니다. 이론 부분은 교환이론과 사회연결망에 대한 관심을 가지고 기술 부분은 Python Clawer 기계학습에 관심이 많습니다. 
 {style="text-align: justify;"}
