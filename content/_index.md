@@ -47,18 +47,18 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: Python
+          description: Pandas, Plotly, Networkx 
+          icon: python
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Sociology theory
+          description: Exchange theory, Social Netowrk Analysis
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: WEB 
+          description: Flask, HTML, tailwindCSS, Echarts
+          icon: chrome
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
@@ -189,10 +189,10 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
-      subtitle: ''
+      title: My Life
+      subtitle: 'with JINQU & Pudding'
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="mylife" >}}
     design:
       columns: '1'
   - block: collection
