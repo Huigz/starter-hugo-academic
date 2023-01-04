@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: korean
-  theme_night: korean
+  theme_day: minimal
+  theme_night: minimal
   font: korean #minimal
   font_size: L
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} jmsu.me This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
