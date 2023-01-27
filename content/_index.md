@@ -55,8 +55,8 @@ sections:
           description: Exchange theory, Social Netowrk Analysis
           icon: chart-line
           icon_pack: fas
-        - name: WEB 
-          description: Flask, HTML, tailwindCSS, Echarts
+        - name: Programming 
+          description: Flutter, Flask, HTML, tailwindCSS, Echarts
           icon: chrome
           icon_pack: fab
   - block: experience
