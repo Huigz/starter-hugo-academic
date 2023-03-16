@@ -9,7 +9,7 @@ sections:
     content:
       title: '**Academic.<br>jmsu.me**'
       image:
-        filename: hero-academic.png
+        filename: network.png
       cta:
         label: '**Get Started**'
         url: /post
