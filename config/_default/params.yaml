@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: '사회학 Blog , 사회학 논문 리뷰, 데이터사이언스 등 지식Post 포함되었습니다.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
