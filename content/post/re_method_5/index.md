@@ -2,8 +2,10 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "[논문 리뷰] 미국 3가지 의사 데이터베이스의 정보 정확성과 포함범위 대비 "
-subtitle: "Review of  The Results Are Only as Good as the Sample: Assessing Three National Physician Sampling Frames "
-summary: ""
+subtitle: "Review of  “The Results Are Only as Good as the Sample: Assessing Three National Physician Sampling Frames“ "
+summary: "“compare the National Provider and Plan Enumeration System (NPPES), the American Medical Association Masterfile and the SK&A physician file.” 
+
+3가지의 의사 데이터베이스간의 차이. (샘플 연구 위한) 정보의 확실성과 포함 범위 검증."
 authors: 
 - admin
 tags: ["사회조사방법론", "의료","Review","Sampling Frames"]
@@ -28,6 +30,13 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+
+DesRoches, Catherine M., Kirsten A. Barrett, Bonnie E. Harvey, Rachel Kogan, James D. Reschovsky, Bruce E. Landon, Lawrence P. Casalino, Stephen M. Shortell, and Eugene C. Rich. "The results are only as good as the sample: assessing three national physician sampling frames." Journal of general internal medicine 30 (2015): 595-601
+
+DOI: 10.1007/s11606-015-3380-9
+
+
 
 ### 논문 목적:
 
