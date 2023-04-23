@@ -13,6 +13,9 @@ sections:
       cta:
         label: '**Get Started**'
         url: /post
+      cta_alt:
+        label: About Methodology  
+        url: /methodology
       cta_note:
         label:
           使用Hugo Academic主题生成 托管于Netlify<br>
@@ -22,9 +25,9 @@ sections:
         
         <br>
         <br>
-        这里包含了有关 社会学 数据科学 计算机科学相关的知识内容
+        这里包含了有关 社会学 数据科学相关的知识内容
         
-        여기 사회학 데이터사이언스 소프트웨어 상관 지식 포함되었다
+        여기 사회학 데이터사이언스용합 지식을 포함되었다
         <br>
         <br>
         <!--Custom spacing-->
