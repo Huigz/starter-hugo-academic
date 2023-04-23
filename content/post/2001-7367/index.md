@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "조사 무응답 국가 별 추세 및 변량(survey design, filed-work, country context) 무응답 간 상관 분석 in 21st"
-subtitle: "Survey Nonresponse Trends and Fieldwork Effort in the 21st Century: Results of an International Study across Countries and Surveys"
+title: "[논문 리뷰] 조사 무응답 국가 별 추세 및 변량(survey design, filed-work, country context) 무응답 간 상관 분석 in 21st"
+subtitle: "Review: 'Survey Nonresponse Trends and Fieldwork Effort in the 21st Century: Results of an International Study across Countries and Surveys' "
 summary: "1998-2015년의 survey non-response trend에 대한 국가 범주에 비교, 차이 연구와 무응답 상관 요인 변량 분석"
 authors: 
 - admin
